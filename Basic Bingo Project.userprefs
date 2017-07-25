@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\UIController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ButtonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AnimationEventController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InfiniteCardBonus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins2\UnbiasedTime\UnbiasedTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MultiplayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AdColonyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DailyReward.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ComputerOpponent.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BingoButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\IAPManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CardController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins2\Demo\SampleTimer.cs" Line="1" Column="1" />
+      <File FileName="Assets\AdColony\Editor\ADCPluginInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="2962" Column="41" />
+      <File FileName="Assets\Scripts\Highscores.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DisplayHighscores.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HighscoresTwo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

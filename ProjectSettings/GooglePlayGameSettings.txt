@@ -1,0 +1,14 @@
+lastUpgrade=00934
+proj.pluginVersion=0.9.34
+ios.ClientId=462035544539-v8f4cg1q3bnotsvg3o76jn3mch2pfvsm.apps.googleusercontent.com
+ios.BundleId=com.LoveAppsLLC.BasicBingoMultiplayer
+proj.ConstantsClassName=Servis
+ios.ResourceData=%23define+CLIENT_ID+%40%22462035544539-v8f4cg1q3bnotsvg3o76jn3mch2pfvsm.apps.googleusercontent.com%22%0d%0a%23define+BUNDLE_ID+%40%22com.LoveAppsLLC.BasicBingoMultiplayer%22%0d%0a%23define+EVENT_TEST+%40%22CgkI29Pbm7kNEAIQAg%22
+and.ClientId=413768428528-gnkkmk10maf50mnoclrut03nhlmuf1h1.apps.googleusercontent.com
+proj.requireGPlus=false
+ios.SetupDone=true
+proj.AppId=413768428528
+and.BundleId=com.loveapps.basicbingotwo
+proj.classDir=Assets
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e413768428528%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.loveapps.basicbingotwo%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_rookie%22%3eCgkI8NeUtIUMEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_amateur%22%3eCgkI8NeUtIUMEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_semipro%22%3eCgkI8NeUtIUMEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_pro%22%3eCgkI8NeUtIUMEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_legend%22%3eCgkI8NeUtIUMEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_total_games_played%22%3eCgkI8NeUtIUMEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_win_streak%22%3eCgkI8NeUtIUMEAIQBw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_total_wins%22%3eCgkI8NeUtIUMEAIQCA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_lose_streak%22%3eCgkI8NeUtIUMEAIQCQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_total_losses%22%3eCgkI8NeUtIUMEAIQCg%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+android.SetupDone=true

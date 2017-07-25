@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BingoButton.cs">
+    <Files>
+      <File FileName="Assets\Scripts\BallDraw.cs" Line="77" Column="37" />
+      <File FileName="Assets\Scripts\RandomNumberGeneratorB.cs" Line="6" Column="54" />
+      <File FileName="Assets\Scripts\RandomNumberGeneratorG.cs" Line="6" Column="54" />
+      <File FileName="Assets\Scripts\RandomNumberGeneratorI.cs" Line="6" Column="54" />
+      <File FileName="Assets\Scripts\RandomNumberGeneratorN.cs" Line="6" Column="54" />
+      <File FileName="Assets\Scripts\RandomNumberGeneratorO.cs" Line="6" Column="54" />
+      <File FileName="Assets\Scripts\BingoButton.cs" Line="64" Column="39" />
+      <File FileName="..\..\AppData\Local\Temp\Rar$DRa0.222\Velocity\Assets\Resources\Scripts\ButtonController.cs" Line="22" Column="3" />
+      <File FileName="..\..\AppData\Local\Temp\Rar$DRa0.194\Velocity\Assets\Resources\Scripts\LevelController.cs" Line="16" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
